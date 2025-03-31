@@ -1,4 +1,4 @@
-# Tree Ensemble Analysis Tool 🌳⚙️ (v3.1)
+# Tree Ensemble Analysis Tool 🌳⚙️ (v3.3)
 
 A Streamlit application built for Data Engineers and Data Scientists to quickly train and evaluate Random Forest and Extra Trees models on tabular datasets. This version includes options for loading data from a directory or via direct file upload, along with performance and UI refinements.
 
@@ -97,7 +97,6 @@ random_forest_streamlit/
     * **📊 Metrics:** Displays key performance scores and the Classification Report.
     * **📈 Plots:** Shows visualizations like Confusion Matrix, Residuals Plot, and Feature Importances.
     * **ℹ️ Data Info:** Provides summary statistics of the original data and details about the preprocessing steps performed.
-7.  **Show Code:** Optionally, check the "Show App Source Code" box in the sidebar.
 
 ## 📜 Dependencies
 
